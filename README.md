@@ -98,7 +98,7 @@ Pull Requests and Issues are welcome!
 > **Ayush Mehta**  
 > 🧑‍🎓 MSCS @ Seattle University  
 > 📧 mehtaayush144@gmail.com  
-> 🌐 [LinkedIn](https://www.linkedin.com/in/ayush-mehta-b1b7711a7/)  
+> 🌐 [LinkedIn](https://www.linkedin.com/in/ayushmehta44/)  
 > 💻 [GitHub](https://github.com/mehtaayush859/)
 
 ---
