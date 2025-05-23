@@ -28,9 +28,6 @@ class Solution:
             return head
         prev = None
         curr = head
-        
-        # 1 -> 2 -> 3 -> None
-        #  3 ->  2 -> 1 -> None
 
         while curr:
             next_temp = curr.next
